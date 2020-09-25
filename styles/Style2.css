@@ -1,0 +1,683 @@
+/*Base*/
+*{-webkit-user-drag: none !important;}
+body {overflow: overlay !important;}
+body {overflow-x: hidden  !important;}
+#body-container {height: 10px !important;}
+#watch7-content {height: 0px !important;}
+#watch7-main {height: 0px !important;}
+body::-webkit-scrollbar {display:none !important;}
+/**/
+
+/*REMOVE*/
+.index {
+  width: 30px !important;
+margin-right: 5px !important;
+}
+
+.comment-renderer-action-menu {
+  
+  display: none !important;
+}
+
+
+
+.yt-uix-button-subscribe-branded {
+  border-bottom-left-radius:  3px !important;
+  border-top-left-radius:  3px !important;
+}
+
+
+.yt-subscription-button-subscriber-count-branded-horizontal {
+  border-top-right-radius: 3px !important;
+    border-bottom-right-radius: 3px !important;
+  height: 22px !important;
+}
+.metadata-row-image {display: none !important;}
+
+.playlist-info {
+  
+  margin-top: -6px !important;
+}
+
+#watch-description-text {
+    margin-top: 10px !important;
+}
+
+
+
+#watch-description-extras {display: none !important;}
+
+#watch7-sidebar-modules > div:nth-child(1) > div > div.checkbox-on-off > label {display: none !important;}
+#watch7-sidebar-modules > div:nth-child(1) > div > div.checkbox-on-off > span.autoplay-hovercard.yt-uix-hovercard {display: none !important;}
+
+
+#watch-discussion {padding-bottom: 0px !important;}
+#footer-container {margin-top: -5px !important;}
+#footer-logo-link > span {display: none !important;}
+#google-help {display: none !important;}
+#footer-main > a {display: none !important;}
+#yt-picker-safetymode-button {display: none !important;}
+#yt-picker-language-button {margin-left: 75px !important;}
+
+
+
+
+
+
+#watch-discussion {
+  margin-bottom: -210px !important;
+}
+ .title {
+padding-bottom: 5px !important;
+	
+}
+
+.popout-for-youtube__button {
+margin-top: -226px !important;
+}
+#guide-container > div > ul > li:nth-child(2) > li > span {display: none !important;}
+
+#group_1001 > div > div.ysm-collection-item.guide-item.yt-uix-sessionlink.yt-valign.spf-link > span > svg {
+    margin-top: -29px !important;
+}
+
+#group_1001 > div > div.ysm-collection-item.guide-item.yt-uix-sessionlink.yt-valign.spf-link > span > span.ysm-collection-item-name.no-count.yt-valign-container.title.style-scope.ytd-guide-entry-renderer {
+    margin-left: 5px !important;
+}
+
+#group_1001 > div > div.ysm-collection-item.guide-item.yt-uix-sessionlink.yt-valign.spf-link {
+    height: 37px !important;
+}
+
+#watch-uploader-info {
+padding-bottom: 10px !important;
+}
+
+#watch-description-text {
+margin-top: -4px !important;
+}
+ #watch-description-text {
+
+line-height: 1.3 !important;
+}
+
+#watch-description-text {
+
+line-height: 1.3 !important;
+}
+#page > div.alerts-wrapper {display: none !important;}
+
+
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-right-controls > button[aria-label="Play on TV"] {
+display: none !important;
+}
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-right-controls > button[aria-label="Subtitles/closed captions (c)"]  {
+display: none !important;
+}
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-right-controls > button[aria-label="Theater mode (t)"] {
+display: none !important;
+}
+/*REMOVE*/
+
+
+/*■■■■■■■■■■■■■■■■■■■■■■■■■■■ Player ■■■■■■■■■■■■■■■■■■■■■■■■■■■*/
+#player-api {
+min-width: 658px !important;
+min-height: 370px !important;
+}
+
+.video-stream {
+min-width: 658px !important;
+min-height: 370px !important;
+}
+
+#player{
+margin-top: -10px !important;
+}
+
+#player-api {
+border-bottom: 80px solid #181818 !important;
+}
+#movie_player > div.html5-video-container > video {
+position: absolute !important;
+left: 0 !important;
+}
+
+
+
+
+
+
+
+/* Video Controls */
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > a.ytp-prev-button.ytp-button::before {
+display: none !important;
+}
+
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button {
+min-width: 36px !important;
+min-height: 36px !important;
+}
+
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button > svg {
+margin-left: -1px !important;
+pointer-events: none !important;
+}
+
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > a.ytp-next-button.ytp-button {
+margin-left: -1px !important;
+min-width: 36px !important;
+min-height: 36px !important;
+}
+
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > a.ytp-prev-button.ytp-button {
+min-width: 36px !important;
+min-height: 36px !important;
+}
+
+.ytp-chrome-bottom {
+display: inline-block !important;
+width: calc(100% - 6px) !important;
+margin-bottom: 0px !important;
+margin-left: -12px !important;
+}
+
+.ytp-play-button {
+transform: none !important;
+transition: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**/
+
+/*■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■*/
+
+
+
+
+/*■■■■■■■■■■■■■■■■■■■■■ Display none stuff ■■■■■■■■■■■■■■■■■■■■■*/
+#watch7-sidebar-contents {display: none !important;}
+#watch-discussion {display: none !important;}
+#footer {display: none !important;}
+#footer-container {display: none !important;}
+#watch7-subscription-container > span > span.yt-subscription-button-subscriber-count-branded-horizontal.yt-subscriber-count {
+display: none !important;
+}
+#watch-privacy-icon > span {
+display: none !important;
+}
+
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-right-controls > button[aria-label="Play on TV"] {
+display: none !important;
+}
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-right-controls > button[aria-label="Subtitles/closed captions (c)"]  {
+display: none !important;
+}
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-right-controls > button[aria-label="Theater mode (t)"] {
+display: none !important;
+}
+/*■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■*/
+
+
+
+
+/*■■■■■■■■■■■■■■■■■■■■■■■■ Header stuff ■■■■■■■■■■■■■■■■■■■■■■■■*/
+#logo-container {/*Change to playlist page*/
+background-image: none !important;
+background-color: red !important;
+}
+/*■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■*/
+
+
+
+
+/*■■■■■■■■■■■■■■■■■■■■■■■■■■ Playlist ■■■■■■■■■■■■■■■■■■■■■■■■■■*/
+#player-playlist {
+margin-top: 360px !important;
+margin-left: -640px !important;
+position: absolute !important;
+max-width: 1280px !important;
+width: 1280px !important;
+}
+
+#playlist-autoscroll-list > li > a > div > h4 {
+display: block !important;
+max-width: 495px !important;
+text-overflow: ellipsis !important;
+white-space: nowrap !important;
+}
+
+.playlist-header {
+width: 620px !important;
+position: absolute !important;
+background-color: black !important;
+top: 0 !important;
+left: 0 !important;
+margin-top: -460px !important;
+z-index: 13123 !important;
+}
+
+#playlist-autoscroll-list{
+margin-top: -100px !important;
+}
+
+#watch8-secondary-actions > div.yt-uix-menu.yt-uix-videoactionmenu > button {
+display: block !important;
+position: absolute !important;
+left: 300px !important;
+top: -310px !important;
+z-index: 123123123 !important;
+}
+
+#playlist-autoscroll-list {
+border-top: 1px solid white   !important;
+}
+
+#watch-appbar-playlist {
+width: 658px !important;
+height: 190px !important;
+margin-top: 170px !important;
+}
+
+#watch-appbar-playlist > div > div.playlist-header {
+margin-top: -80px !important;
+width: 638px !important;
+}
+
+
+
+#watch-appbar-playlist > div > div.playlist-header > div.control-bar.clearfix {
+border-top: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■*/
+
+
+
+
+
+/* Title stuff */
+
+
+
+
+
+
+
+#action-panel-details {
+display: none !important;
+}
+
+#watch7-views-info  {
+user-select: none !important;
+}
+#watch7-views-info > div.watch-view-count {
+filter: contrast(0%) brightness(200%) !important;
+}
+#watch8-sentiment-actions > span {
+filter: contrast(0%) brightness(200%) !important;
+}
+
+
+
+/**/
+
+
+
+
+#eow-title {
+text-align: left !important;
+
+
+white-space: nowrap !important;
+text-overflow: ellipsis !important;
+max-width: 450px !important;
+color: white !important;
+overflow: hidden !important;
+font-size: 16px !important;
+position: absolute !important;
+left: 24px !important;
+top: 5px !important;
+z-index: 1 !important;
+}
+
+
+
+
+#watch7-user-header > div > a {
+color: white !important;
+position: absolute !important;
+left: 42px !important;
+top: 25px !important;
+
+display: flex !important;
+z-index: 3123421412421412 !important;
+
+}
+
+
+
+
+
+#watch7-user-header > div > span {
+display: none !important;
+}
+
+.yt-uix-subscription-button {
+display: none !important;
+}
+#watch7-user-header > a > span  {
+background-color: transparent !important;
+pointer-events: none !important;
+}
+#watch7-user-header > a {
+pointer-events: none !important;
+}
+#watch7-user-header > a > span > span > span > img {
+max-width: 30px !important;
+max-height: 30px !important;
+pointer-events: auto !important;
+
+}
+
+#watch-header {
+background-color: rgba(255, 0, 0, 0) !important;
+
+width: 658px !important;
+max-height: 0px !important;
+min-height: 0px !important;
+position: absolute !important;
+top: 6px !important;
+left: -14px !important;
+z-index: 5 !important;
+}
+
+#watch8-sentiment-actions {
+margin-top: -48px !important;
+margin-right: -20px !important;
+}
+#watch8-action-buttons {
+border: none !important;
+}
+#watch7-views-info {
+margin-bottom: 41px !important;
+margin-right: -20px !important;
+}
+#watch7-views-info > div.video-extras-sparkbars {
+margin-bottom: -3px !important;
+margin-top: 6px !important;
+}
+
+#watch7-headline > span {
+display: none !important;
+}
+
+#watch8-secondary-actions > div.yt-uix-menu.yt-uix-videoactionmenu {
+position: absolute !important;
+left: -100px !important;
+top: 258px !important;
+
+}
+
+
+#watch8-secondary-actions  .yt-uix-button-content {
+display: none !important;
+}
+#yt-uix-videoactionmenu-menu {
+position: absolute !important;
+left: 200px !important;
+background-image: none !important;
+top: 500px !important;
+
+}
+.yt-uix-menu-trigger {
+display: none !important;
+pointer-events: none !important;
+padding-right: 42px !important;
+
+
+}
+
+.yt-uix-menu-trigger {
+pointer-events: auto !important;
+min-width: 20px !important;
+min-height: 20px !important;
+max-width: 20px !important;
+max-height: 20px !important;
+padding: 0px !important;
+border-radius: 2px !important;
+background-image: url("https://i.imgur.com/Ai6ns3T.png") !important;
+background-repeat: no-repeat !important;
+background-color: rgba(203, 21, 21, .97) !important;
+opacity: 1 !important;
+}
+.yt-uix-menu-trigger::before {
+list-style-image: none !important;
+background-image: none !important;
+max-width: 1px !important;
+max-height: 1px !important;
+
+}
+
+
+.yt-uix-tooltip-tip-arrow {
+display: none !important;
+}
+
+
+
+
+/*TOOLTIPS(todo)*/
+.yt-uix-tooltip-tip-content {
+display: none !important;
+}
+/**/
+
+
+/*Right click video menu (todo)*/
+
+/**/
+
+
+
+#watch7-views-info > div.video-extras-sparkbars > div.video-extras-sparkbar-likes {
+filter: contrast(0%) brightness(60%) !important;
+}
+
+
+
+
+#watch-appbar-playlist > div > div.playlist-header > div.playlist-header-content > div.appbar-playlist-controls.clearfix {
+display: none !important;
+
+}
+
+#watch-appbar-playlist > div > div.playlist-header > div.control-bar.clearfix {
+height: 0px !important;
+pointer-events: none !important;
+
+}
+#watch-appbar-playlist > div > div.playlist-header {
+height: 60px !important;
+
+}
+#watch-appbar-playlist > div > div.playlist-header > div.control-bar.clearfix > div.playlist-nav-controls {
+margin-top: -51px !important;
+margin-left: 560px !important;
+display: block !important;
+position: absolute !important;
+z-index: 999999 !important;
+pointer-events: auto !important;
+
+}
+
+#watch8-action-buttons {
+pointer-events: none !important;
+
+}
+
+#watch8-sentiment-actions > span {
+pointer-events: auto !important;
+
+}
+#playlist-autoscroll-list {
+margin-top: -118px !important;
+
+}
+#watch-appbar-playlist > div > div.playlist-header {
+background-color: #181818 !important;
+border-top: 2px solid #3d3d3d !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*■■■■■■■■■■■■■■■■■■■■■■■■■■ Repeater ■■■■■■■■■■■■■■■■■■■■■■■■■■*/
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-right-controls > button:nth-child(1) > img {
+max-width: 24px !important;
+min-width: 24px !important;
+min-height: 24px !important;
+max-height: 24px !important;
+}
+/*■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■*/
+
+
+
+
+
+
+
+/*
+
+#body > div.ytp-popup.ytp-contextmenu > div > div > div:nth-child(1)[aria-checked="true"] >  {display: none !important;}
+*/
+
+
+
+
+
+
+
+
+
+/* SEEK BAR*/
+.ytp-gradient-bottom {
+margin-bottom: -1px !important;
+} 
+
+
+
+
+.ytp-autohide .pprogg {
+max-height: 4px !important;
+min-height: 4px !important;
+width: 658px !important;
+margin-left: -122px !important;
+opacity: 0.8 !important;
+
+}
+
+
+
+
+
+
+#movie_player > div.ytp-tooltip.ytp-bottom.ytp-preview {
+margin-left: 10px !important;
+}
+
+
+#movie_player > div.ytp-chrome-bottom > div.ytp-progress-bar-container > div.ytp-progress-bar > div.ytp-chapters-container > div > div.ytp-progress-bar-padding {
+
+margin-bottom: -2px !important;
+}
+
+.ytp-progress-bar {
+width: 0px !important;
+}
+.ytp-progress-bar-container {
+width: 0px !important;
+}
+
+#movie_player > div.ytp-chrome-bottom > div.ytp-progress-bar-container > div.ytp-progress-bar > div.ytp-chapters-container > div > div.ytp-progress-list {
+margin-top: -5px !important;
+}
+
+#movie_player > div.ytp-chrome-bottom > div.ytp-progress-bar-container > div.ytp-progress-bar > div.ytp-scrubber-container {
+display: none !important;
+
+}
+
+
+#movie_player > div.ytp-chrome-bottom > div.ytp-progress-bar-container  {
+margin-left: 21px !important;
+}
+
+
+
+.pprogg [data-type=loaded] {
+
+width: 100% !important;
+background-color: #a39ea9 !important;
+}
+
+
+
+
+#playlist-autoscroll-list {
+border-top: 1px solid #fff !important;
+height: 220px !important;
+}
+
+
+
+
+
+
+
+
+
+
