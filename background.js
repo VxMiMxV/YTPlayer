@@ -4,7 +4,10 @@ let tabIds = []
 chrome.browserAction.onClicked.addListener(function (tab) {
 chrome.windows.create({ url: "https://www.youtube.com/view_all_playlists", left: 50, top: 50, width: 674, height: 822, type: "popup" }, window => {
 const tabId = window.tabs[0].id;
-
+  
+// set zoom
+chrome.tabs.setZoom(tabId, 2);
+  
 // add to tabIds array
 tabIds.push(tabId)
 
